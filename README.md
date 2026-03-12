@@ -5,9 +5,12 @@
 
 _The TouchBar Customization App for your MacBook Pro_
 
-My idea is to create a platform for creating plugins to customize the TouchBar. I very much like BTT and having a full custom TouchBar (my BTT preset), and I wanted to create it. It's my first Swift project for MacOS :)
+My idea is to create a platform for creating plugins to customize the TouchBar. I very much like BTT and having a full custom TouchBar (my BTT preset), and I wanted to create it.
 
 **Share your presets [here](https://github.com/Toxblh/MTMR-presets)**
+
+**Visial editor for MTMR** -> [MTMR Designer](https://josmanvis.github.io/mtmr-designer)</br>
+All thanks to [@josetwentyfour](https://github.com/josmanvis)
 
 <p align="center">
   <img src="./Resources/aaaaa-acc6-17fee7572ed0.png" alt="Mackbook with touchbar" width="800">
